@@ -1,0 +1,20 @@
+p{
+    display: inline;
+    padding-right: 10px;
+    color: red;
+   
+}
+.main{
+    align-items: center;
+    padding: 50px,50px,50px,50px;
+}
+#borders{
+    border-radius: 25px;
+    background: teal;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    align-items: center;
+    
+
+}
